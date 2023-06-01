@@ -1,1 +1,1 @@
-# Machine-learning-for-heart-disease-classification
+# Machine learning for heart disease classification
