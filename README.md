@@ -54,16 +54,17 @@ Model consists of:
 ### Convocational Model
 <div class="tab_result">
 
-| Architecture | Method | Accuracy | Specificity | Precision | Recall | F1-Score |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: |
-| CNN on 1D data (Proposed Model) | 99.30 | 95.30 | 93.30 | 94.40 |
-| ANN | Nayan Nazrul Anuar [5] | 90.0 | – | – | – |
-| CNN with CWT | Tao Wang [6] | 98.74 | – | – | 68.76 |
-| CNN with DWT | M. Mohamed Suhail [12] | 90.67 | – | – | – |
-| CNN with GAN | Abdelrahman M. Shaker [4] | 98.30 | 90.0 | 97.70 | – |
-| CNN and RNN | Mohammad Rafi [10] | 98.0 | 90.80 | 84.40 | 97.40 |
-| CNN with BI-LSTM | Amin Shoughi [8] | 98.71 | 92.50 | 94.40 | – |
-| CNN | MM Farag [11] | 97.13 | – | 91.00 | 88.30 |
+| Studies | Architecture | Method | Accuracy | Precision | Recall | F1-Score |
+| :--- | :--- | :--- | :---: | :---: | :---: | :---: |
+| Proposed Model | CNN on 1D data | 99.30 | 95.30 | 93.30 | 94.40 |
+| Nayan Nazrul Anuar [5] | ANN | 90.0 | – | – | – |
+| Tao Wang [6] | CNN with CWT | 98.74 | – | – | 68.76 |
+| M. Mohamed Suhail [12] | CNN with DWT | 90.67 | – | – | – |
+| Abdelrahman M. Shaker [4] | CNN with GAN | 98.30 | 90.0 | 97.70 | – |
+| Mohammad Rafi [10] | CNN and RNN | 98.0 | 90.80 | 84.40 | 97.40 |
+| Amin Shoughi [8] | CNN with BI-LSTM | 98.71 | 92.50 | 94.40 | – |
+| MM Farag [11] | CNN | 97.13 | – | 91.00 | 88.30 |
 
 </div>
+
 
