@@ -102,16 +102,15 @@ Classification performance of the proposed improved 1D-CNN model compared to som
 </div>
 
 <div style="display:flex; flex-direction:row;">
-    <div style="text-align:center; margin-right: 20px;">
+    <figure style="margin-right: 20px;">
         <img src="images/Accuracy.jpg" alt="Accuracy plot for 1D-CNN" style="width:300px;height:300px;">
-        <p>Accuracy Plot</p>
-    </div>
-    <div style="text-align:center;">
+        <figcaption>Accuracy Plot</figcaption>
+    </figure>
+    <figure>
         <img src="images/Loss.jpg" alt="Loss plot for 1D-CNN" style="width:300px;height:300px;">
-        <p>Loss Plot</p>
-    </div>
+        <figcaption>Loss Plot</figcaption>
+    </figure>
 </div>
-
 
 
 
