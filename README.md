@@ -56,21 +56,22 @@ Model consists of:
 Classification results of the improved algorithms by using StandardScaler combined with fine-tuned hyperparameter with RandomizedSearchCV
 <div class="tab_result">
 
-    |         | 1D-CNN | SVM | LR |
-    | :--- | :--- | :---: | :---: |
-    | N | 0.99 | 0.99 | 0.95 |
-    | S | 0.88 | 0.75 | 0.55 |
-    | V | 0.97 | 0.94 | 0.44 |
-    | F | 0.84 | 0.68 | 0.40 |
-    | Q | 1.00 | 0.98 | 0.92 |
-    | Accuracy | 0.99 | 0.98 | 0.91 |
-    | Macro avg | 0.94 | 0.87 | 0.65 |
-    | Weighted avg | 0.99 | 0.98 | 0.90 |
+    |         | 1D-CNN | SVM  | LR   |
+    | :------ | :----- | :--: | :--: |
+    | N       | 0.99   | 0.99 | 0.95 |
+    | S       | 0.88   | 0.75 | 0.55 |
+    | V       | 0.97   | 0.94 | 0.44 |
+    | F       | 0.84   | 0.68 | 0.40 |
+    | Q       | 1.00   | 0.98 | 0.92 |
+    | Accuracy| 0.99   | 0.98 | 0.91 |
+    | Macro avg| 0.94  | 0.87 | 0.65 |
+    | Weighted avg| 0.99 | 0.98 | 0.90 |
 
 </div>
 
+
 Confusion matrix for 1D-CNN classifier
-![alt text](https://github.com/anhoangcao/Electrocardiogram-Based-Heart-Disease-Classification-with-Machine-Learning-Techniques/main/images/NorCM-1D.jpg "Confusion matrix for 1D-CNN classifier.")
+![alt text](images/NorCM-1D.jpg "Confusion matrix for 1D-CNN classifier.")
 
 Confusion matrix for SVM classifier
 ![alt text](https://github.com/anhoangcao/Electrocardiogram-Based-Heart-Disease-Classification-with-Machine-Learning-Techniques/main/images/NorCM-SVM.jpg "Confusion matrix for SVM classifier.")
