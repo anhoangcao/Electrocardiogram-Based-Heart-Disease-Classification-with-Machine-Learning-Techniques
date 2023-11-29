@@ -72,17 +72,17 @@ Classification results of the improved algorithms by using StandardScaler combin
 
 Confusion matrix for 1D-CNN classifier
 
-<img src="images/NorCM-1D.jpg" alt="Confusion matrix for 1D-CNN classifier." style="width:400px;height:300px;">
+<img src="images/NorCM-1D.jpg" alt="Confusion matrix for 1D-CNN classifier." style="width:350px;height:300px;">
 
 
 Confusion matrix for SVM classifier
 
-<img src="images/NorCM-SVM.jpg" alt="Confusion matrix for SVM classifier." style="width:400px;height:300px;">
+<img src="images/NorCM-SVM.jpg" alt="Confusion matrix for SVM classifier." style="width:350px;height:300px;">
 
 
 Confusion matrix for LR classifier
 
-<img src="images/NorCM-LR3.jpg" alt="Confusion matrix for LR classifier." style="width:400px;height:300px;">
+<img src="images/NorCM-LR3.jpg" alt="Confusion matrix for LR classifier." style="width:350px;height:300px;">
 
 
 Classification performance of the proposed improved 1D-CNN model compared to some state-of-the-art studies
@@ -103,11 +103,11 @@ Classification performance of the proposed improved 1D-CNN model compared to som
 
 <div style="display:flex; flex-direction:row;">
     <figure style="margin-right: 20px;">
-        <img src="images/Accuracy.jpg" alt="Accuracy plot for 1D-CNN" style="width:400px;height:300px;">
+        <img src="images/Accuracy.jpg" alt="Accuracy plot for 1D-CNN" style="width:350px;height:300px;">
         <figcaption>Accuracy Plot</figcaption>
     </figure>
     <figure>
-        <img src="images/Loss.jpg" alt="Loss plot for 1D-CNN" style="width:400px;height:300px;">
+        <img src="images/Loss.jpg" alt="Loss plot for 1D-CNN" style="width:350px;height:300px;">
         <figcaption>Loss Plot</figcaption>
     </figure>
 </div>
