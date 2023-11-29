@@ -69,16 +69,21 @@ Classification results of the improved algorithms by using StandardScaler combin
 
 </div>
 
+
 Confusion matrix for 1D-CNN classifier
 
 <img src="images/NorCM-1D.jpg" alt="Confusion matrix for 1D-CNN classifier." style="width:300px;height:300px;">
 
 
 Confusion matrix for SVM classifier
-![alt text](https://github.com/anhoangcao/Electrocardiogram-Based-Heart-Disease-Classification-with-Machine-Learning-Techniques/main/images/NorCM-SVM.jpg "Confusion matrix for SVM classifier.")
+
+<img src="images/NorCM-SVM.jpg" alt="Confusion matrix for SVM classifier." style="width:300px;height:300px;">
+
 
 Confusion matrix for LR classifier
-![alt text](https://github.com/anhoangcao/Electrocardiogram-Based-Heart-Disease-Classification-with-Machine-Learning-Techniques/main/images/NorCM-LR3.jpg "Confusion matrix for LR classifier.")
+
+<img src="images/NorCM-LR3.jpg" alt="Confusion matrix for LR classifier." style="width:300px;height:300px;">
+
 
 Classification performance of the proposed improved 1D-CNN model compared to some state-of-the-art studies
 <div class="tab_result">
@@ -98,10 +103,14 @@ Classification performance of the proposed improved 1D-CNN model compared to som
 
 An illustration of training and testing performance of 1D-CNN during epochs.
 Accuracy
-![alt text](https://github.com/anhoangcao/ECGClassifier/blob/master/images/CM-BNN.png "Confusion matrix for LR classifier.")
+
+<img src="images/Accuracy.jpg" alt="Confusion matrix for LR classifier." style="width:300px;height:300px;">
+
 
 Loss
-![alt text](https://github.com/anhoangcao/ECGClassifier/blob/master/images/CM-BNN.png "Confusion matrix for LR classifier.")
+
+<img src="images/Loss.jpg" alt="Confusion matrix for LR classifier." style="width:300px;height:300px;">
+
 
 ## Conclusion
 Machine learning has emerged as a critical tool in medicine and automatic diagnosis owing to its ability to achieve high accuracy in medical data analysis. This study proposes a novel approach to improve machine learning’s performance in Author Proof electrocardiogram-based heart disease prediction by using the scaler combined
