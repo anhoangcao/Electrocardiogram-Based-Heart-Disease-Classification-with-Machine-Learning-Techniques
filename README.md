@@ -101,15 +101,11 @@ Classification performance of the proposed improved 1D-CNN model compared to som
 
 </div>
 
-An illustration of training and testing performance of 1D-CNN during epochs.
-Accuracy
+<div style="display:flex; flex-direction:row;">
+    <img src="images/Accuracy.jpg" alt="Accuracy plot for 1D-CNN" style="width:300px;height:300px;">
+    <img src="images/Loss.jpg" alt="Loss plot for 1D-CNN" style="width:300px;height:300px;">
+</div>
 
-<img src="images/Accuracy.jpg" alt="Confusion matrix for LR classifier." style="width:300px;height:300px;">
-
-
-Loss
-
-<img src="images/Loss.jpg" alt="Confusion matrix for LR classifier." style="width:300px;height:300px;">
 
 
 ## Conclusion
