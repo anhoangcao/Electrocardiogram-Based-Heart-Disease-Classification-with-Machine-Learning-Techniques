@@ -70,6 +70,7 @@ Classification results of the improved algorithms by using StandardScaler combin
 </div>
 
 Confusion matrix for 1D-CNN classifier
+
 <img src="images/NorCM-1D.jpg" alt="Confusion matrix for 1D-CNN classifier." style="width:300px;height:300px;">
 
 
