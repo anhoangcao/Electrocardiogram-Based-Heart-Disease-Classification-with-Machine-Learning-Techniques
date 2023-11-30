@@ -102,18 +102,16 @@ Classification performance of the proposed improved 1D-CNN model compared to som
 </div>
 
 <div style="display:flex; flex-direction:row;">
+    <figcaption>Accuracy Plot</figcaption>
     <figure style="margin-right: 20px;">
-        <img src="images/Accuracy.jpg" alt="Accuracy plot for 1D-CNN" style="width:350px;height:300px;">
-        <figcaption>Accuracy Plot</figcaption>
+        <img src="images/Accuracy.jpg" alt="Accuracy plot for 1D-CNN" style="width:350px;height:300px;">        
     </figure>
+    <figcaption>Loss Plot</figcaption>
     <figure>
-        <img src="images/Loss.jpg" alt="Loss plot for 1D-CNN" style="width:350px;height:300px;">
-        <figcaption>Loss Plot</figcaption>
+        <img src="images/Loss.jpg" alt="Loss plot for 1D-CNN" style="width:350px;height:300px;">       
     </figure>
 </div>
 
 
 ## Conclusion
-Machine learning has emerged as a critical tool in medicine and automatic diagnosis owing to its ability to achieve high accuracy in medical data analysis. This study proposes a novel approach to improve machine learning’s performance in Author Proof electrocardiogram-based heart disease prediction by using the scaler combined
-with fine-tuned hyperparameter. As shown from the experiments, the results of the proposed approach, which improved the 1D-CNN model by using the scaler combined with fine-tuned hyperparameter, can get better results than previous
-studies, with 99.30%, 95.30%, 93.30%, and 94.40% in accuracy, precision, recall, and F1-score, respectively. However, independently fine-tuned hyperparameter did not significantly improve the performance. In addition, classic machine learning algorithms such as SVM and Logistic Regression can benefit from scaler rather than fine-tuned hyperparameter.
+Machine learning has emerged as a critical tool in medicine and automatic diagnosis owing to its ability to achieve high accuracy in medical data analysis. This study proposes a novel approach to improve machine learning’s performance in Author Proof electrocardiogram-based heart disease prediction by using the scaler combined with fine-tuned hyperparameter. As shown from the experiments, the results of the proposed approach, which improved the 1D-CNN model by using the scaler combined with fine-tuned hyperparameter, can get better results than previous studies, with 99.30%, 95.30%, 93.30%, and 94.40% in accuracy, precision, recall, and F1-score, respectively. However, independently fine-tuned hyperparameter did not significantly improve the performance. In addition, classic machine learning algorithms such as SVM and Logistic Regression can benefit from scaler rather than fine-tuned hyperparameter.
